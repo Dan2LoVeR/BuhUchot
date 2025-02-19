@@ -39,12 +39,3 @@
 * Обработаны исключения на нулевые значения и тип вводимых параметров:
 ![4](https://github.com/lenskii/crmgurutesttask/blob/master/doc/4.jpg)
 
-
-Последний доступный релиз можно загрузить по соответствующей [ссылке](https://github.com/lenskii/crmgurutesttask/releases/tag/1.0).
-
----
-
-Приветствуются любые комментарии и пожелания:
-
-* lenskii97@gmail.com
-* [Telegram](https://t.me/lenskii97)
